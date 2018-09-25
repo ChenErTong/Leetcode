@@ -13,5 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Easy">
+      <UniqueIdentifier>{a4c92b23-0f0a-4b27-850b-17bc18037da2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Binary Tree">
+      <UniqueIdentifier>{fa06d4b2-6f1d-472d-8a08-b2c15038aea3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Reverse_Integer.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Two_Sum.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome_Number.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Roman_to_Integer.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest_Common_Prefix.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid_Parentheses.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge_Two_Sorted Lists.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove_Element.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Implement_strStr().cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Preorder_Traversal.cpp">
+      <Filter>源文件\Binary Tree</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
